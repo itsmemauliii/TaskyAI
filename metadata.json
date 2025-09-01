@@ -1,0 +1,5 @@
+{
+  "name": "AI Proposal Generator",
+  "description": "An AI-powered consulting assistant that helps consultants save time creating client-ready proposals. Input project details and instantly generate a professional, structured document.",
+  "requestFramePermissions": []
+}
